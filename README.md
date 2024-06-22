@@ -4,10 +4,9 @@
 🌐 I'm passionate about crafting amazing web experiences and building robust, scalable applications that make a difference. With a strong foundation in web technologies and a knack for problem-solving, I strive to create clean, efficient code that delivers exceptional user experiences.
 
 🚀 My skills include:
-- Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js
+- Frontend Development: HTML5, CSS3, JavaScript, React.js
 - Backend Development: Node.js
-- Database Technologies: SQL (MySQL, PostgreSQL)
-- DevOps & Deployment: Docker
+- Database Technologies: SQL (MySQL, MongoDB)
 - Version Control: Git, GitHub
 
 🔭 Currently, I'm exploring new frontiers in web development, diving deep into areas like NoSql,Express.js
